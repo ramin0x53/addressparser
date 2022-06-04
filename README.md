@@ -38,7 +38,7 @@ sudo ldconfig
 ```
 git clone https://github.com/ramin0x53/addressparser.git
 cd ./addressparser
-go build main
+go build main.go
 ```
 
 ## Example:
