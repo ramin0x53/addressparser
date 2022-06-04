@@ -28,7 +28,7 @@ func Run() {
 
 	router.POST("/", handleReq)
 
-	err := router.Run()
+	err := router.Run(":80")
 	if err != nil {
 		log.Println(err)
 	}
