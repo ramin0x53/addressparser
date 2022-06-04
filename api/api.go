@@ -23,6 +23,7 @@ func handleReq(c *gin.Context) {
 }
 
 func Run() {
+	gin.SetMode(gin.ReleaseMode)
 	router := gin.Default()
 
 	router.POST("/", handleReq)
