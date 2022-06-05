@@ -70,4 +70,5 @@ Response:
 
 
 Default port: 80
+stats: /stats
 ```
