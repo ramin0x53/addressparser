@@ -40,6 +40,11 @@ git clone https://github.com/ramin0x53/addressparser.git
 cd ./addressparser
 make build
 ```
+## Docker:
+```
+docker build -t addressparser-img .
+docker run -d -p 80:80 addressparser-img
+```
 
 ## Example:
 
