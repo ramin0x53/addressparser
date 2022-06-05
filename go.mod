@@ -16,6 +16,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/openvenues/gopostal v0.0.0-20171226154602-e0184512a45d // indirect
 	github.com/pelletier/go-toml/v2 v2.0.1 // indirect
+	github.com/thoas/stats v0.0.0-20190407194641-965cb2de1678 // indirect
 	github.com/ugorji/go/codec v1.2.7 // indirect
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e // indirect
 	golang.org/x/net v0.0.0-20220531201128-c960675eff93 // indirect
